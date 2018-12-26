@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapImplementation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_info_title">default_tile</string>
+    <string name="default_info_snippet">default_snippet</string>
+    <string name="pick_place">pick place</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
